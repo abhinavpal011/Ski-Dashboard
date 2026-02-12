@@ -68,3 +68,5 @@ Lift Types by Resort (Stacked Bar Chart) Stacked bar chart showing: Gondola lift
 
 
 6. Screenshots / Demos
+
+   
